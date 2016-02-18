@@ -5,6 +5,8 @@
  */
 package prueba;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author RAMOS
@@ -16,6 +18,8 @@ public class Prueba {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        JOptionPane.showMessageDialog(null,"probandooo");
     }
     
 }
